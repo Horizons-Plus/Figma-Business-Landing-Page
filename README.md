@@ -11,14 +11,11 @@ Choose one of the following options to get started:
 
 ## Using the Template
 
-This template is using Tailwind CSS for a design part.
-
-To get the best out of Tailwind CSS, you need to really start customising it.
-Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start tweaking!
+This template is using HTML, CSS and Tailwind CSS for a design part.
 
 ## Author
 
-Julian ADJIBI
+Horizons Plus
 
 
 
