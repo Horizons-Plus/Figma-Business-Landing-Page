@@ -1,7 +1,7 @@
 # Installation Guideline
 
 
-* Download this template here [Download](https://github.com/Julian-root/Figma-Business-Landing-Page/tree/master)
+* Download this template here [Download](ttps://github.com/Horizons-Plus/Figma-Business-Landing-Page/tree/master)
 * Open the file index.html with your navigator
 * Enjoy !!!
 
